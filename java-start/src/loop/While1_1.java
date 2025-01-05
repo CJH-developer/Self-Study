@@ -5,8 +5,8 @@ public class While1_1 {
         int count = 0;
 
         while(count<10){
-            count++;
             System.out.println("count의 값 : " + count);
+            count++;
         }
     }
 }
